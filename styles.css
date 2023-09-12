@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Oswald:wght@200;400;600&family=Poppins:wght@300;400&family=Roboto&family=Rubik+Iso&display=swap');
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: #FBE4E4;
+}
+h3{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 30px;
+}
+.Table{
+  
+  border-collapse: collapse;
+  
+  border-spacing: 2px;
+  margin: auto;
+  margin-top: 0px;
+  box-shadow: 2px;
+  width: 80%;
+  height: 500px;
+  box-shadow: inset;
+  margin-bottom: 30px;
+
+  
+
+}
+*{
+  margin: 0;
+  padding: 0;
+} 
+.head{
+  background-color: #D63231;
+  color: white;
+ 
+}
+
+.fade{
+  background-color: #FFFFFF;
+}
+.fade1{
+  background-color: rgb(243,243,243);
+}
+table,tr,th{
+  
+  
+  justify-content: space-evenly;
+}
+td{
+  text-align: center;
+}
+h4{
+  font-size: 22px;
+}
+.kalvi{
+  margin-left: 150px;
+}
+.nav{
+  margin-left: 1150px;
+  margin-top: -150px;
+}
+.vertical{
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+}
